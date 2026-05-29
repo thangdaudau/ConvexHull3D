@@ -6,6 +6,7 @@ Mở Visual Studio để chạy
 # Hình ảnh
 ## Gift Wrapping
 <img width="895" height="529" alt="image" src="https://github.com/user-attachments/assets/3305a1c5-dba4-4793-a68e-b145f2b9acc4" />
+
 ## Incremental
 <img width="899" height="510" alt="image" src="https://github.com/user-attachments/assets/86f1649c-f9ce-48c3-b7c5-bf0e7d1f2e7d" />
 
